@@ -24,3 +24,5 @@ test-twit.js
 
 /redux-twitter-stream-demo
 /test-mapbox
+
+/src/config.json
