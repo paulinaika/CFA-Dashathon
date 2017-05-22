@@ -3,7 +3,7 @@ const request = require('request');
 
 // setup HTTP GET request with correct header
 const requestSettings = {
-  url: 'https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/sydneytrains',
+  url: 'https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/nswtrains',
   encoding: null,
   headers: {
     'Authorization': process.env.NSW_TRANSPORT_API, //replace the API key here
