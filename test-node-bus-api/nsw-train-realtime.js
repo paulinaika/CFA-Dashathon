@@ -19,7 +19,7 @@ request(requestSettings, function (error, response, body) {
 
   // log response header
   console.log('Response headers:', JSON.stringify(response.headers));
-  console.log('Reponse received:', body);
+  //console.log('Reponse received:', body);
 
   //if response status is good – log all the current bus locations
   if (!error && response.statusCode == 200) {

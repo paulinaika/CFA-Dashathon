@@ -26,3 +26,9 @@ test-twit.js
 /test-mapbox
 
 /src/config.json
+/test-gtfs-node
+
+/src/shape.json
+/src/shapesco.json
+
+/test-xml-parser
