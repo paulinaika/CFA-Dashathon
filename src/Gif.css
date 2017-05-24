@@ -1,0 +1,10 @@
+body{
+  /*background-image: url('https://media.giphy.com/media/3o7bubPquZ2ZseYsQU/giphy.gif');*/
+  background: linear-gradient(rgba(251,140,0, 0.5), rgba(251,140,0,0.5)),
+                rgba(251,140,0,0.5) url('https://media.giphy.com/media/3o7bubPquZ2ZseYsQU/giphy.gif') no-repeat center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.5);
+
+}
