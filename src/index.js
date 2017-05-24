@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App2';
+import App from './Gif';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
